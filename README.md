@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Zouth (a social media for "Otakus")
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning TypeScript.
 - 💬 Ask me about reality and dreams
 - 📫 How to reach me: linktr.ee/watashiwashika
 - ⚡ Fun fact: I like to be different.
